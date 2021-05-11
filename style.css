@@ -1,0 +1,29 @@
+:root{
+--grey: rgb(61, 58, 58);
+
+}
+
+.bg-grey{
+  background-color: var(--grey);
+}
+
+.bg-white{
+  --white: rgb(256,256,256);
+}
+.movedown{
+  transform:translateY(50%);
+}
+
+.imgsize{
+  width: 75%;
+  background-size:contain;
+}
+
+.bg-tractorguy{
+  background: url(https://www.deere.com/assets/images/common/home-page/nogoingback-1366x347.jpg);
+  background-size:cover;
+  height:50vh;
+  
+  
+  
+}
